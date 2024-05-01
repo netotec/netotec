@@ -11,7 +11,9 @@ dedicando-me a aprender sobre as diversas facetas do desenvolvimento de software
 Interesses:
 
 💻 Desenvolvimento de Softwares: Estou constantemente aprendendo e experimentando com diferentes tecnologias e linguagens de programação.
+
 🎮 Jogos: Amo explorar novos jogos, discutir mecânicas de jogabilidade e até mesmo criar meus próprios jogos como hobby ou como um futuro emprego.
+
 💻 Uma das minhas vontades e estudar sobre segurança da internet a chamada Cybersecurity.
 
 O que Você vai encontrar aqui:
