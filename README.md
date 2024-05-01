@@ -30,7 +30,9 @@ Adoro colaborar com outras pessoas e aprender com suas experiências!
 Contato :
 
 Você pode me encontrar aqui no GitHub ou me contatar por:
+
 E-mail: neto.tec.hard@gmail.com 
+
 Likedin :
 
 Obrigado por visitar meu perfil! Divirta-se explorando meus projetos! 🚀🎮
