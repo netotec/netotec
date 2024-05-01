@@ -1,8 +1,12 @@
 Olá, eu Sou Oscar Neto !
 
-Bem-vindo ao meu repositório no GitHub! Aqui você encontrará uma mistura de projetos de análise e desenvolvimento de sistemas, além de algumas coisas relacionadas a jogos, que são uma paixão minha.
+Bem-vindo ao meu repositório no GitHub! 
+Aqui você encontrará uma mistura de projetos de análise e desenvolvimento de sistemas, além de algumas coisas relacionadas a jogos, que são uma paixão minha.
 
-Sobre Mim : Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, dedicando-me a aprender sobre as diversas facetas do desenvolvimento de software. Além disso, sou um amante de jogos, tanto na jogabilidade quanto no desenvolvimento.
+Sobre Mim : 
+
+Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas, 
+dedicando-me a aprender sobre as diversas facetas do desenvolvimento de software. Além disso, sou um amante de jogos, tanto na jogabilidade quanto no desenvolvimento.
 
 Interesses:
 
