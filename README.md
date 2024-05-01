@@ -19,6 +19,7 @@ Interesses:
 O que Você vai encontrar aqui:
 
 💻 Projetos de Desenvolvimento de Software: Desde pequenos scripts até projetos mais complexos, você encontrará uma variedade de coisas relacionadas ao desenvolvimento de software.
+
 🎮 Projetos de Jogos: Alguns dos meus experimentos e projetos relacionados a jogos estarão disponíveis aqui. Isso pode incluir jogos simples, protótipos e até mesmo análises de jogos.
 
 Como você pode contribuir ?
