@@ -33,6 +33,6 @@ Você pode me encontrar aqui no GitHub ou me contatar por:
 
 E-mail: neto.tec.hard@gmail.com 
 
-Likedin :
+Likedin :https://www.linkedin.com/in/oscar-neto-379126227?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app 
 
 Obrigado por visitar meu perfil! Divirta-se explorando meus projetos! 🚀🎮
